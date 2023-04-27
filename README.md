@@ -27,8 +27,8 @@ THEN the password is either displayed in an alert or written to the page
 
 
 Dependencies
-
 *JavaScript
 *CSS
 *HTML
+
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/126128634/235008064-5d5c80c4-057d-444d-8d97-037e631abb30.png">
