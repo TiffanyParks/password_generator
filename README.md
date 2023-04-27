@@ -31,3 +31,7 @@ Dependencies
 *JavaScript
 *CSS
 *HTML
+
+https://github.com/TiffanyParks/password_generator.git
+
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/126128634/235008064-5d5c80c4-057d-444d-8d97-037e631abb30.png">
